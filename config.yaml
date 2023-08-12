@@ -1,6 +1,7 @@
 database:
-  host: ""
-  username: ""
-  password: ""
-  db: ""
+  driver: mysql
+  user: your_username
+  password: your_password
+  host: localhost
   port: 3306
+  databaseName: your_database_name
